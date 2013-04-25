@@ -18,6 +18,13 @@
 		A0BAE63C17039F980019A62A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A0BAE63B17039F980019A62A /* Default-568h@2x.png */; };
 		A0BAE63F17039F980019A62A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0BAE63D17039F980019A62A /* MainStoryboard.storyboard */; };
 		A0BAE64217039F980019A62A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0BAE64117039F980019A62A /* ViewController.m */; };
+		A0C10F4C1729B57C00A66988 /* icon_cal_check.png in Resources */ = {isa = PBXBuildFile; fileRef = A0C10F481729B57C00A66988 /* icon_cal_check.png */; };
+		A0C10F4D1729B57C00A66988 /* icon_kb_check.png in Resources */ = {isa = PBXBuildFile; fileRef = A0C10F491729B57C00A66988 /* icon_kb_check.png */; };
+		A0C10F4E1729B57C00A66988 /* icon_kb.png in Resources */ = {isa = PBXBuildFile; fileRef = A0C10F4A1729B57C00A66988 /* icon_kb.png */; };
+		A0C10F4F1729B57C00A66988 /* icon_cal.png in Resources */ = {isa = PBXBuildFile; fileRef = A0C10F4B1729B57C00A66988 /* icon_cal.png */; };
+		A0C10F511729B58600A66988 /* icon_star.png in Resources */ = {isa = PBXBuildFile; fileRef = A0C10F501729B58600A66988 /* icon_star.png */; };
+		A0C10F541729CC2F00A66988 /* ChooseKettlebellSizeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0C10F531729CC2F00A66988 /* ChooseKettlebellSizeViewController.m */; };
+		A0C10F571729CF3200A66988 /* ChooseStartDateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0C10F561729CF3200A66988 /* ChooseStartDateViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +44,17 @@
 		A0BAE63E17039F980019A62A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		A0BAE64017039F980019A62A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A0BAE64117039F980019A62A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A0C10F461729B53900A66988 /* HomeScreenTableCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeScreenTableCell.h; sourceTree = "<group>"; };
+		A0C10F471729B53900A66988 /* HomeScreenTableCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeScreenTableCell.m; sourceTree = "<group>"; };
+		A0C10F481729B57C00A66988 /* icon_cal_check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_cal_check.png; sourceTree = "<group>"; };
+		A0C10F491729B57C00A66988 /* icon_kb_check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_kb_check.png; sourceTree = "<group>"; };
+		A0C10F4A1729B57C00A66988 /* icon_kb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_kb.png; sourceTree = "<group>"; };
+		A0C10F4B1729B57C00A66988 /* icon_cal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_cal.png; sourceTree = "<group>"; };
+		A0C10F501729B58600A66988 /* icon_star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_star.png; sourceTree = "<group>"; };
+		A0C10F521729CC2F00A66988 /* ChooseKettlebellSizeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseKettlebellSizeViewController.h; sourceTree = "<group>"; };
+		A0C10F531729CC2F00A66988 /* ChooseKettlebellSizeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseKettlebellSizeViewController.m; sourceTree = "<group>"; };
+		A0C10F551729CF3200A66988 /* ChooseStartDateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseStartDateViewController.h; sourceTree = "<group>"; };
+		A0C10F561729CF3200A66988 /* ChooseStartDateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseStartDateViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +106,12 @@
 				A0BAE63D17039F980019A62A /* MainStoryboard.storyboard */,
 				A0BAE64017039F980019A62A /* ViewController.h */,
 				A0BAE64117039F980019A62A /* ViewController.m */,
+				A0C10F461729B53900A66988 /* HomeScreenTableCell.h */,
+				A0C10F471729B53900A66988 /* HomeScreenTableCell.m */,
+				A0C10F521729CC2F00A66988 /* ChooseKettlebellSizeViewController.h */,
+				A0C10F531729CC2F00A66988 /* ChooseKettlebellSizeViewController.m */,
+				A0C10F551729CF3200A66988 /* ChooseStartDateViewController.h */,
+				A0C10F561729CF3200A66988 /* ChooseStartDateViewController.m */,
 				A0BAE62C17039F980019A62A /* Supporting Files */,
 			);
 			path = "Swing Season v15";
@@ -96,6 +120,11 @@
 		A0BAE62C17039F980019A62A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A0C10F501729B58600A66988 /* icon_star.png */,
+				A0C10F481729B57C00A66988 /* icon_cal_check.png */,
+				A0C10F491729B57C00A66988 /* icon_kb_check.png */,
+				A0C10F4A1729B57C00A66988 /* icon_kb.png */,
+				A0C10F4B1729B57C00A66988 /* icon_cal.png */,
 				A0BAE62D17039F980019A62A /* Swing Season v15-Info.plist */,
 				A0BAE62E17039F980019A62A /* InfoPlist.strings */,
 				A0BAE63117039F980019A62A /* main.m */,
@@ -163,6 +192,11 @@
 				A0BAE63A17039F980019A62A /* Default@2x.png in Resources */,
 				A0BAE63C17039F980019A62A /* Default-568h@2x.png in Resources */,
 				A0BAE63F17039F980019A62A /* MainStoryboard.storyboard in Resources */,
+				A0C10F4C1729B57C00A66988 /* icon_cal_check.png in Resources */,
+				A0C10F4D1729B57C00A66988 /* icon_kb_check.png in Resources */,
+				A0C10F4E1729B57C00A66988 /* icon_kb.png in Resources */,
+				A0C10F4F1729B57C00A66988 /* icon_cal.png in Resources */,
+				A0C10F511729B58600A66988 /* icon_star.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +210,8 @@
 				A0BAE63217039F980019A62A /* main.m in Sources */,
 				A0BAE63617039F980019A62A /* AppDelegate.m in Sources */,
 				A0BAE64217039F980019A62A /* ViewController.m in Sources */,
+				A0C10F541729CC2F00A66988 /* ChooseKettlebellSizeViewController.m in Sources */,
+				A0C10F571729CF3200A66988 /* ChooseStartDateViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +334,7 @@
 				A0BAE64717039F980019A62A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
